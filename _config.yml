@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Travel Mate # the main title
+title: Travel Meet # the main title
 
 tagline: Discover the world through shared adventures # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Travel Mate connects explorers and wanderlusters from around the globe to document, share, and discover amazing travel experiences. Join our community of travelers to be inspired for your next journey, read personal travel journals, get insider tips, and make meaningful connections.
+  Travel Meet connects explorers and wanderlusters from around the globe to document, share, and discover amazing travel experiences. Join our community of travelers to be inspired for your next journey, read personal travel journals, get insider tips, and make meaningful connections.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://images.app.goo.gl/66MopGiDUkActS4Y7
 
 # boolean type, the global switch for TOC in posts.
 toc: true
